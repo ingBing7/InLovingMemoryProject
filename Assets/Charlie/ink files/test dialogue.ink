@@ -4,7 +4,9 @@ INCLUDE globals.ink
 Hello, 
 my name is jason statham 
 * * [woah that's crazy]
+I'm literally jason statham
 * * [hi jason]
+whatever
 * * [i have a gift for you]
 -> giftLine
 
