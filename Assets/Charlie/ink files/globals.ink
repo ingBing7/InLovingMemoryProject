@@ -1,0 +1,1 @@
+VAR hasGift = false
